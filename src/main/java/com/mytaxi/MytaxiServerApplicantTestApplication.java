@@ -45,7 +45,7 @@ public class MytaxiServerApplicantTestApplication extends WebMvcConfigurerAdapte
 
     private ApiInfo generateApiInfo()
     {
-        return new ApiInfo("mytaxi Server Applicant Test Service", "This service is to check the technology knowledge of a server applicant for mytaxi.", "Version 1.0 - mw",
-            "urn:tos", "career@mytaxi.com", "Apache 2.0", "http://www.apache.org/licenses/LICENSE-2.0");
+        return new ApiInfo("Taxi Server Applicant For Driver", "This service is to book taxi By a driver", "Version 1.0 - mw",
+            "urn:tos", "sidharthdash19@gmail.com", "Apache 2.0", "http://www.apache.org/licenses/LICENSE-2.0");
     }
 }
