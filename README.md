@@ -9,4 +9,3 @@ The project is based on a small web service which uses the following technologie
 * Spring MVC with Spring Boot
 * Database H2 (In-Memory)
 * Maven
-* Intellij as IDE is preferred but not mandatory.
